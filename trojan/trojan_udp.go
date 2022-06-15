@@ -8,9 +8,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/imgk/caddy-trojan/socks"
+	"github.com/F-TD5X/caddy-trojan/socks"
 
-	"github.com/imgk/memory-go"
+	"github.com/F-TD5X/memory-go"
 )
 
 // HandleUDP is ...

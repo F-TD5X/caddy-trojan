@@ -12,9 +12,9 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/imgk/caddy-trojan/app"
-	"github.com/imgk/caddy-trojan/trojan"
-	"github.com/imgk/caddy-trojan/utils"
+	"github.com/F-TD5X/caddy-trojan/app"
+	"github.com/F-TD5X/caddy-trojan/trojan"
+	"github.com/F-TD5X/caddy-trojan/utils"
 )
 
 func init() {

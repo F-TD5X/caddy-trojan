@@ -172,11 +172,6 @@ func (h *Handler) UnmarshalCaddyfile(d *caddyfile.Dispenser) error {
 				return d.Err("only one websocket is not allowed")
 			}
 			h.WebSocket = true
-        case "grpc":
-            if h.GRPC {
-				return d.Err("only one grpc is not allowed")
-			}
-			h.GRPC = true
 		case "connect_method":
 			if h.Connect {
 				return d.Err("only one connect_method is not allowed")

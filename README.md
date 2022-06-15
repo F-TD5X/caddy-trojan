@@ -2,7 +2,7 @@
 
 ## Build with xcaddy
 ```
-$ xcaddy build --with github.com/imgk/caddy-trojan
+$ xcaddy build --with github.com/F-TD5X/caddy-trojan
 ```
 
 ##  Config (JSON)

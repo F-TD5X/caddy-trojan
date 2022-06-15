@@ -1,4 +1,4 @@
-module github.com/imgk/caddy-trojan
+module github.com/F-TD5X/caddy-trojan
 
 go 1.18
 
@@ -6,7 +6,7 @@ require (
 	github.com/caddyserver/caddy/v2 v2.5.1
 	github.com/caddyserver/certmagic v0.16.1
 	github.com/gorilla/websocket v1.5.0
-	github.com/imgk/memory-go v0.0.0-20220328012817-37cdd311f1a3
+	github.com/F-TD5X/memory-go v0.0.0-20220328012817-37cdd311f1a3
 	go.uber.org/zap v1.21.0
 	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
 )

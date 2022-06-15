@@ -17,8 +17,8 @@ RUN set -e \
         --with github.com/hairyhenderson/caddy-teapot-module \
         --with github.com/caddyserver/transform-encoder \
         --with github.com/mholt/caddy-webdav \
-        --with github.com/imgk/caddy-trojan \
-        --with github.com/imgk/caddy-pprof
+        --with github.com/F-TD5X/caddy-trojan \
+        --with github.com/F-TD5X/caddy-pprof
 
 
 FROM alpine AS dist
