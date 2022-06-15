@@ -10,7 +10,7 @@ import (
 
 	"github.com/F-TD5X/caddy-trojan/socks"
 
-	"github.com/F-TD5X/memory-go"
+	"github.com/imgk/memory-go"
 )
 
 // HandleUDP is ...
